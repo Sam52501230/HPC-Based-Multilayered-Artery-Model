@@ -23,4 +23,4 @@ This project implements a high-performance computing (HPC) based simulation fram
 - **ParaView** - Advanced result visualization
 - **HPC Cluster** - High-performance computing resources
 
-## 📁 Project Structure
+
